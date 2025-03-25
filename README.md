@@ -1,7 +1,7 @@
 
 
 <div>
- <img align="center" alt="stats" height="40" width="80" src"https://github-readme-stats.vercel.app/api?username=presuntozipepr&theme=blue-green" 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
  <div style="display: inline_block"><br>
