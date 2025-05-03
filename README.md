@@ -9,7 +9,7 @@
 
  Tools 🛠️
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,dynamodb,tailwind,fastapi,docker,git,aws,arduino,postman,linux" width="1500"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,dynamodb,azure,vercel,tailwind,fastapi,docker,git,aws,arduino,postman,linux" width="1500"/>
  </div>
 </div>
 
