@@ -15,14 +15,14 @@
 
 ##
 <div style="display: inlineblock">
-     <h3>OS Principal</h3> 
+     <h2>OS Principal</h2> 
  <div >
   <img  alt="OS"  width="80" src="https://skillicons.dev/icons?i=debian">
  </div>   
 </div>
 
 ##
-<h4>Linkedin</h4>
+<h2>Linkedin</h2>
 <div>
    <a href="https://www.linkedin.com/in/heitorhsantos/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="70"/></a>
 </div>
